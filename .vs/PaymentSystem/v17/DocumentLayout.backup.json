@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SourceCodes\\LogOrnek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C66879-E39E-4C01-9E97-66BC120D1BD9}|LogOrnek\\PaymentSystem.csproj|c:\\sourcecodes\\logornek\\logornek\\paymentsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A7C66879-E39E-4C01-9E97-66BC120D1BD9}|LogOrnek\\PaymentSystem.csproj|solutionrelative:logornek\\paymentsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C66879-E39E-4C01-9E97-66BC120D1BD9}|LogOrnek\\LogOrnek.csproj|C:\\SourceCodes\\LogOrnek\\logornek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7C66879-E39E-4C01-9E97-66BC120D1BD9}|LogOrnek\\LogOrnek.csproj|solutionrelative:logornek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C66879-E39E-4C01-9E97-66BC120D1BD9}|LogOrnek\\LogOrnek.csproj|c:\\sourcecodes\\logornek\\logornek\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C66879-E39E-4C01-9E97-66BC120D1BD9}|LogOrnek\\LogOrnek.csproj|solutionrelative:logornek\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C66879-E39E-4C01-9E97-66BC120D1BD9}|LogOrnek\\LogOrnek.csproj|c:\\sourcecodes\\logornek\\logornek\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C66879-E39E-4C01-9E97-66BC120D1BD9}|LogOrnek\\LogOrnek.csproj|solutionrelative:logornek\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C66879-E39E-4C01-9E97-66BC120D1BD9}|LogOrnek\\LogOrnek.csproj|c:\\sourcecodes\\logornek\\logornek\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7C66879-E39E-4C01-9E97-66BC120D1BD9}|LogOrnek\\LogOrnek.csproj|solutionrelative:logornek\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C66879-E39E-4C01-9E97-66BC120D1BD9}|LogOrnek\\LogOrnek.csproj|c:\\sourcecodes\\logornek\\logornek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C66879-E39E-4C01-9E97-66BC120D1BD9}|LogOrnek\\LogOrnek.csproj|solutionrelative:logornek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C66879-E39E-4C01-9E97-66BC120D1BD9}|LogOrnek\\LogOrnek.csproj|c:\\sourcecodes\\logornek\\logornek\\paymentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C66879-E39E-4C01-9E97-66BC120D1BD9}|LogOrnek\\LogOrnek.csproj|solutionrelative:logornek\\paymentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C66879-E39E-4C01-9E97-66BC120D1BD9}|LogOrnek\\LogOrnek.csproj|c:\\sourcecodes\\logornek\\logornek\\ipaymentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C66879-E39E-4C01-9E97-66BC120D1BD9}|LogOrnek\\LogOrnek.csproj|solutionrelative:logornek\\ipaymentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C66879-E39E-4C01-9E97-66BC120D1BD9}|LogOrnek\\LogOrnek.csproj|c:\\sourcecodes\\logornek\\logornek\\dynamicclassgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C66879-E39E-4C01-9E97-66BC120D1BD9}|LogOrnek\\LogOrnek.csproj|solutionrelative:logornek\\dynamicclassgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C66879-E39E-4C01-9E97-66BC120D1BD9}|LogOrnek\\LogOrnek.csproj|c:\\sourcecodes\\logornek\\logornek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C66879-E39E-4C01-9E97-66BC120D1BD9}|LogOrnek\\LogOrnek.csproj|solutionrelative:logornek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C66879-E39E-4C01-9E97-66BC120D1BD9}|LogOrnek\\LogOrnek.csproj|c:\\sourcecodes\\logornek\\logornek\\compiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C66879-E39E-4C01-9E97-66BC120D1BD9}|LogOrnek\\LogOrnek.csproj|solutionrelative:logornek\\compiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DynamicClassGenerator.cs",
+              "DocumentMoniker": "C:\\SourceCodes\\LogOrnek\\LogOrnek\\DynamicClassGenerator.cs",
+              "RelativeDocumentMoniker": "LogOrnek\\DynamicClassGenerator.cs",
+              "ToolTip": "C:\\SourceCodes\\LogOrnek\\LogOrnek\\DynamicClassGenerator.cs",
+              "RelativeToolTip": "LogOrnek\\DynamicClassGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T23:54:00.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentManager.cs",
+              "DocumentMoniker": "C:\\SourceCodes\\LogOrnek\\LogOrnek\\PaymentManager.cs",
+              "RelativeDocumentMoniker": "LogOrnek\\PaymentManager.cs",
+              "ToolTip": "C:\\SourceCodes\\LogOrnek\\LogOrnek\\PaymentManager.cs",
+              "RelativeToolTip": "LogOrnek\\PaymentManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T21:10:38.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\SourceCodes\\LogOrnek\\LogOrnek\\Form1.cs",
+              "RelativeDocumentMoniker": "LogOrnek\\Form1.cs",
+              "ToolTip": "C:\\SourceCodes\\LogOrnek\\LogOrnek\\Form1.cs",
+              "RelativeToolTip": "LogOrnek\\Form1.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T12:22:27.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogOrnek.csproj",
+              "DocumentMoniker": "C:\\SourceCodes\\LogOrnek\\LogOrnek\\PaymentSystem.csproj",
+              "RelativeDocumentMoniker": "LogOrnek\\PaymentSystem.csproj",
+              "ToolTip": "C:\\SourceCodes\\LogOrnek\\LogOrnek\\PaymentSystem.csproj",
+              "RelativeToolTip": "LogOrnek\\PaymentSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T21:29:11.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Compiler.cs",
+              "DocumentMoniker": "C:\\SourceCodes\\LogOrnek\\LogOrnek\\Compiler.cs",
+              "RelativeDocumentMoniker": "LogOrnek\\Compiler.cs",
+              "ToolTip": "C:\\SourceCodes\\LogOrnek\\LogOrnek\\Compiler.cs",
+              "RelativeToolTip": "LogOrnek\\Compiler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T22:52:33.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPaymentManager.cs",
+              "DocumentMoniker": "C:\\SourceCodes\\LogOrnek\\LogOrnek\\IPaymentManager.cs",
+              "RelativeDocumentMoniker": "LogOrnek\\IPaymentManager.cs",
+              "ToolTip": "C:\\SourceCodes\\LogOrnek\\LogOrnek\\IPaymentManager.cs",
+              "RelativeToolTip": "LogOrnek\\IPaymentManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T21:00:40.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPayment.cs",
+              "DocumentMoniker": "C:\\SourceCodes\\LogOrnek\\LogOrnek\\IPayment.cs",
+              "RelativeDocumentMoniker": "LogOrnek\\IPayment.cs",
+              "ToolTip": "C:\\SourceCodes\\LogOrnek\\LogOrnek\\IPayment.cs",
+              "RelativeToolTip": "LogOrnek\\IPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T12:23:05.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\SourceCodes\\LogOrnek\\LogOrnek\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "LogOrnek\\Form1.Designer.cs",
+              "ToolTip": "C:\\SourceCodes\\LogOrnek\\LogOrnek\\Form1.Designer.cs",
+              "RelativeToolTip": "LogOrnek\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T23:31:29.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\SourceCodes\\LogOrnek\\LogOrnek\\Form1.cs",
+              "RelativeDocumentMoniker": "LogOrnek\\Form1.cs",
+              "ToolTip": "C:\\SourceCodes\\LogOrnek\\LogOrnek\\Form1.cs [Design]",
+              "RelativeToolTip": "LogOrnek\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T12:19:03.794Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\SourceCodes\\LogOrnek\\LogOrnek\\appsettings.json",
+              "RelativeDocumentMoniker": "LogOrnek\\appsettings.json",
+              "ToolTip": "C:\\SourceCodes\\LogOrnek\\LogOrnek\\appsettings.json",
+              "RelativeToolTip": "LogOrnek\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-01T21:30:11.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SourceCodes\\LogOrnek\\LogOrnek\\Program.cs",
+              "RelativeDocumentMoniker": "LogOrnek\\Program.cs",
+              "ToolTip": "C:\\SourceCodes\\LogOrnek\\LogOrnek\\Program.cs",
+              "RelativeToolTip": "LogOrnek\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T21:31:13.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
